@@ -37,3 +37,14 @@ dotnetrun
     }
 
 ```
+
+## Search Samples
+
+```C#
+Joa*
+\(812\)
+Name: Clau* AND Email: realmo.com 
+Company:Assis*
+Name: Sant* AND Phone: 2222
+ka*na
+```
